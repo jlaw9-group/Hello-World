@@ -1,13 +1,14 @@
 Hello-World
 ===========
 
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+Table of Contents
+=================
 
-- [Hello-World](#)
-- [Header #1](#)
-	- [Header 2](#)
-		- [Header 3](#header-3)
-	- [Header 4 with HEader 2 style](#)
+  * [Hello-World](#hello-world)
+  * [Header #1](#header-1)
+    * [Header 2](#header-2)
+      * [Header 3](#header-3)
+    * [Header 4 with HEader 2 style](#header-4-with-header-2-style)
 
 #Header #1
 Some content
